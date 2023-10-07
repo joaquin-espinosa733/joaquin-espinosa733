@@ -5,7 +5,7 @@
 Soy un desarrollador web Full-Stack de nacionalidad Argentina con una trayectoria que se remonta a mi infancia, cuando mi curiosidad por la tecnología me llevó a descubrir la programación gracias a un amigo. Desde ese momento, he estado inmerso en el mundo de la tecnología y el desarrollo web.
 
 Me apasiona aprender constantemente y mantenerme al tanto de las últimas tendencias tecnológicas, lo que me permite ofrecer soluciones sólidas y de vanguardia a los desafíos digitales que encuentro y para ello cuento con estas tecnologias:
-
+# MIS TECNOLOGIAS
 Javascript,
 express,
 NodeJS,
