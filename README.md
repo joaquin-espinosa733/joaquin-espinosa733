@@ -1,5 +1,5 @@
 # Joaquin Espinosa
-Aqui encontraras toda la informacion relacionada a mi
+
 # ¿QUIEN SOY?
 
 Soy un desarrollador web Full-Stack de nacionalidad Argentina con una trayectoria que se remonta a mi infancia, cuando mi curiosidad por la tecnología me llevó a descubrir la programación gracias a un amigo. Desde ese momento, he estado inmerso en el mundo de la tecnología y el desarrollo web.
