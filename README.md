@@ -1,4 +1,4 @@
-![javascript-original](https://github.com/joaquin-espinosa733/joaquin-espinosa733/assets/120037964/524120d4-aa18-4e5b-bf12-35646d7b9567)# Joaquin Espinosa
+# Joaquin Espinosa
 
 # ¿QUIEN SOY?
 
