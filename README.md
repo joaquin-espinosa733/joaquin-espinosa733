@@ -8,14 +8,14 @@ Me apasiona aprender constantemente y mantenerme al tanto de las últimas tenden
 
 # MIS TECNOLOGIAS
 
-Javascript,
-express,
-NodeJS,
-SQL,
-React,
-Redux,
-CSS,
-HTML.
+* Javascript,
+* express,
+* NodeJS,
+* SQL,
+* React,
+* Redux,
+* CSS,
+* HTML.
 # MIS OBJETIVOS 
 
 Además de mi amor por la tecnología, también valoro la comunidad de desarrolladores y la colaboración. Contribuir al conocimiento compartido y ayudar a otros a aprender y crecer en este emocionante campo es una parte importante de mi identidad como desarrollador.
