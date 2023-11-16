@@ -9,7 +9,8 @@ Me apasiona aprender constantemente y mantenerme al tanto de las últimas tenden
 # MIS TECNOLOGIAS
 
 * Javascript,
-* express,
+* Typescript,
+* Express,
 * NodeJS,
 * SQL,
 * React,
