@@ -26,6 +26,6 @@ Estoy comprometido con mi crecimiento profesional continuo, y siempre estoy en b
 # ¿COMO CONTACTARME?
 
 - 📫 Puedes contactarme:
-*e-mail: juaco.enero9@gmail.com
-*Likendin: www.linkedin.com/in/joaquin-espinosa
+-e-mail: juaco.enero9@gmail.com
+-Likendin: www.linkedin.com/in/joaquin-espinosa
 * Web: https://joaquin-e-portfolio.vercel.app/
