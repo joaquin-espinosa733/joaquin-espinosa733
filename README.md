@@ -1,4 +1,4 @@
-# <h1 align="center">Hi 👋, I'm Joaquin Espinosa</h1>
+# <h1 align="center">Hola 👋, soy Joaquín Espinosa</h1>
 
 # ¿QUIEN SOY?
 
@@ -24,15 +24,15 @@
   <img src= "https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
 </span>
 
-<h4> Other Tools and Technologies </h4>
+<h4> Otras herramientas y tecnologías </h4>
 <span>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white">
 </span>
 
-<h2>Github stats:</h2> 
+<h2>Estadísticas de Github:</h2> 
 
-| ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=joaquin-espinosa733&show_icons=true&theme=tokyonight) | ![Joaquin GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=joaquin-espinosa733&theme=tokyonight) |
+| ![Joaquin github stats](https://github-readme-stats.vercel.app/api?username=joaquin-espinosa733&show_icons=true&theme=tokyonight) | ![Joaquin GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=joaquin-espinosa733&theme=tokyonight) |
 | --- | --- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaquin-espinosa733&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=joaquin-espinosa733&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
