@@ -6,7 +6,7 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- Soy un desarrollador web Full-Stack argentino con una trayectoria que comenzó en mi infancia, cuando descubrí la programación gracias a un amigo. Desde entonces, he estado inmerso en el mundo de la tecnología, aprendiendo constantemente y manteniéndome al día con las últimas tendencias. Esto me permite ofrecer soluciones innovadoras a los desafíos digitales que enfrento, utilizando una variedad de tecnologías.
+- Soy un desarrollador web Full-Stack argentino con una trayectoria que se remonta a mi infancia, cuando mi curiosidad por la tecnología me llevó a descubrir la programación gracias a un amigo. Desde entonces, he estado inmerso en el mundo del desarrollo web, aprendiendo constantemente y manteniéndome al día con las últimas tendencias tecnológicas para ofrecer soluciones innovadoras a los desafíos digitales que enfrento.
 <br/>
 <br/>
 <br/>
