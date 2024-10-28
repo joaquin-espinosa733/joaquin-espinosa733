@@ -30,6 +30,13 @@
   <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white">
 </span>
 
+[![Joaquin GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Aditya664&theme=tokyonight)](https://git.io/praveenscience)
+
+| ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=joaquin-espinosa733&show_icons=true&theme=tokyonight) | ![Joaquin GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=joaquin-espinosa733&theme=tokyonight) |
+| --- | --- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaquin-espinosa733&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=joaquin-espinosa733&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+
+
 # ¿COMO CONTACTARME?
 
 - 📫 Puedes contactarme:
