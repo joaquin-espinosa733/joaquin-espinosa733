@@ -16,6 +16,12 @@ Me apasiona aprender constantemente y mantenerme al tanto de las últimas tenden
   <img src= "https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
 </span>
 
+<h4> Other Tools and Technologies </h4>
+<span>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white">
+</span>
+
 Además de mi amor por la tecnología, también valoro la comunidad de desarrolladores y la colaboración. Contribuir al conocimiento compartido y ayudar a otros a aprender y crecer en este emocionante campo es una parte importante de mi identidad como desarrollador.
 
 Estoy comprometido con mi crecimiento profesional continuo, y siempre estoy en busca de oportunidades para enfrentar desafíos más grandes y emocionantes en el mundo del desarrollo web backEnd,FrontEnd o FullStack. Mi objetivo es seguir evolucionando como desarrollador y, al mismo tiempo, inspirar y colaborar con otros apasionados de la tecnología en su propio viaje hacia el éxito en este campo emocionante.
