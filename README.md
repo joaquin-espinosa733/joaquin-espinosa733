@@ -1,10 +1,30 @@
-# Joaquin Espinosa
+# <h1 align="center">Hi 👋, I'm Joaquin Espinosa</h1>
 
 # ¿QUIEN SOY?
 
 Soy un desarrollador web Full-Stack de nacionalidad Argentina con una trayectoria que se remonta a mi infancia, cuando mi curiosidad por la tecnología me llevó a descubrir la programación gracias a un amigo. Desde ese momento, he estado inmerso en el mundo de la tecnología y el desarrollo web.
 
 Me apasiona aprender constantemente y mantenerme al tanto de las últimas tendencias tecnológicas, lo que me permite ofrecer soluciones sólidas y de vanguardia a los desafíos digitales que encuentro y para ello cuento con estas tecnologias:
+
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
+
+- 🔭 I’m currently working in <a href="https://phoenix.tech/griffyn/" target="blank">Griffyn Robotech Private Limited</a>
+
+- 🌱 I’m currently Working on Mobile App(React-Native)
+
+- 🤝 I’m available for freelancing.
+
+- 🌱 I’m currently learning Swift && SwiftUI <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">100DaysOfSwift</a>
+
+- 📝 I regularly write articles on [https://dev.to/100rabhcsmc](https://dev.to/100rabhcsmc)
+
+- 💬 Ask me about **Reactjs & React-Native**
+
+- 📫 How to reach me **saurabhchavan052@gmail.com**
+
+- 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a>
 
 # MIS TECNOLOGIAS
 
