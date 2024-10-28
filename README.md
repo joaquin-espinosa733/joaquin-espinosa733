@@ -10,6 +10,8 @@
 
 Me apasiona aprender constantemente y mantenerme al tanto de las últimas tendencias tecnológicas, lo que me permite ofrecer soluciones sólidas y de vanguardia a los desafíos digitales que encuentro y para ello cuento con estas tecnologias:
 <br/>
+<br/>
+<br/>
 
 # MIS TECNOLOGIAS
 
