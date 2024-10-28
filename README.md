@@ -30,7 +30,7 @@
   <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white">
 </span>
 
-[![Joaquin GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Aditya664&theme=tokyonight)](https://git.io/praveenscience)
+<h2>Github stats:</h2> 
 
 | ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=joaquin-espinosa733&show_icons=true&theme=tokyonight) | ![Joaquin GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=joaquin-espinosa733&theme=tokyonight) |
 | --- | --- |
