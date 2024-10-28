@@ -1,6 +1,6 @@
 # <h1 align="center">Hola 👋, soy Joaquín Espinosa</h1>
 
-# ¿QUIEN SOY?
+# ¿Quien soy?
 
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
@@ -16,7 +16,7 @@
 <br/>
 
 
-# MIS TECNOLOGIAS
+# Mis tecnologias
 
 <h4> Languages </h4>
 <span>
@@ -52,7 +52,7 @@
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaquin-espinosa733&theme=tokyonight)
 
 
-# ¿COMO CONTACTARME?
+# ¿Como contactarme?
 
 - 📫 Puedes contactarme:
 - e-mail: juaco.enero9@gmail.com
