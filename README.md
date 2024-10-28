@@ -8,16 +8,12 @@ Me apasiona aprender constantemente y mantenerme al tanto de las últimas tenden
 
 # MIS TECNOLOGIAS
 
-* Javascript,
-* Typescript,
-* Express,
-* NodeJS,
-* SQL,
-* React,
-* Redux,
-* CSS,
-* HTML.
-# MIS OBJETIVOS 
+<span> 
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src= "https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
+</span>
 
 Además de mi amor por la tecnología, también valoro la comunidad de desarrolladores y la colaboración. Contribuir al conocimiento compartido y ayudar a otros a aprender y crecer en este emocionante campo es una parte importante de mi identidad como desarrollador.
 
