@@ -45,7 +45,7 @@
 
 <h2>Estadísticas de Github:</h2> 
 
-| ![Joaquin github stats](https://github-readme-stats.vercel.app/api?username=joaquin-espinosa733&show_icons=true&theme=tokyonight) | ![Joaquin GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=joaquin-espinosa733&theme=tokyonight) |
+| ![Joaquin Espinosa github stats](https://github-readme-stats.vercel.app/api?username=joaquin-espinosa733&show_icons=true&theme=tokyonight) | ![Joaquin GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=joaquin-espinosa733&theme=tokyonight) |
 | --- | --- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaquin-espinosa733&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=joaquin-espinosa733&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
