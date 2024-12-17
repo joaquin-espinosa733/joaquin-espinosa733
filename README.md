@@ -47,9 +47,9 @@
 
 <h2>Estadísticas de Github:</h2> 
 
-| ![Joaquin Espinosa github stats](https://github-readme-stats.vercel.app/api?username=joaquin-espinosa733&show_icons=true&theme=tokyonight) |
+ ![Joaquin Espinosa github stats](https://github-readme-stats.vercel.app/api?username=joaquin-espinosa733&show_icons=true&theme=tokyonight) 
 
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaquin-espinosa733&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaquin-espinosa733&theme=tokyonight)
 
 
 # ¿Como contactarme?
