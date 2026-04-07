@@ -8,7 +8,11 @@
 
 
 
-- Soy un desarrollador web Full-Stack argentino con una trayectoria que se remonta a mi infancia, cuando mi curiosidad por la tecnología me llevó a descubrir la programación gracias a un amigo. Desde entonces, he estado inmerso en el mundo del desarrollo web, aprendiendo constantemente y manteniéndome al día con las últimas tendencias tecnológicas para ofrecer soluciones innovadoras a los desafíos digitales que enfrento.
+- Backend Developer con formación Full Stack, enfocado en el desarrollo de APIs, lógica de negocio y manejo de bases de datos.
+
+Trabajo principalmente con Node.js, TypeScript, postgreSQL y NestJS, construyendo soluciones claras, escalables y bien estructuradas. Mi base Full Stack me permite comprender el sistema completo, aunque hoy mi foco está puesto en el backend profesional.
+
+Me interesa el buen diseño de software, la arquitectura de sistemas y el aprendizaje constante. Busco seguir creciendo como desarrollador backend y participar en proyectos donde la calidad del código sea una prioridad.
 <br/>
 <br/>
 <br/>
