@@ -8,7 +8,7 @@
 
 
 
-- Backend Developer con formación Full Stack, enfocado en el desarrollo de APIs, lógica de negocio y manejo de bases de datos.
+Backend Developer con formación Full Stack, enfocado en el desarrollo de APIs, lógica de negocio y manejo de bases de datos.
 
 Trabajo principalmente con Node.js, TypeScript, postgreSQL y NestJS, construyendo soluciones claras, escalables y bien estructuradas. Mi base Full Stack me permite comprender el sistema completo, aunque hoy mi foco está puesto en el backend profesional.
 
